@@ -1,0 +1,6 @@
+source_table,source_column,business_name,include_in_gold
+demand_actual,MONTH,period,1
+demand_actual,PRODUCT_ID,material,1
+demand_actual,CUSTOMER_ID,market,1
+demand_actual,PERIOD3,period_id,1
+demand_actual,SALESHISTORY,sales_history,1
